@@ -54,7 +54,7 @@ Link of license file  http://www.gnu.org/licenses/gpl.txt
 
 MADE BY :
 
-SONIYA SINGHAL
+SONIYA SINGHAL, 
 POOJA BHATNAGAR
 
 
